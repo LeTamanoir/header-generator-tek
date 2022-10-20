@@ -39,7 +39,7 @@
         ],
         "keybindings": [
             {
-                "key": "ctrl+c ctrl+h",
+                "key": "ctrl+h",
                 "command": "header-generator-tek.generate-header"
             }
         ]
